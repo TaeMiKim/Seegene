@@ -9,10 +9,19 @@ Keywords : Histopathology Analysis, Microscopic Image, Weakly Supervised Learnin
      
 
 ## Method
-![Architecture](https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/Architecture.png?raw=true)
-![RF](https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/RF.png?raw=true)
-![AGG](https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/AGG.png?raw=true)
-![HA](https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/HA.png?raw=true)
+<img src = "https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/Architecture.png" width="800" height="400">
+
+<p align="center">
+<img src = "https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/RF.png" width="300" height="300">
+</p>
+
+<p align="center">
+<img src = "https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/AGG.png" width="300" height="300">
+</p>
+
+<p align="center">
+<img src = "https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/HA.png" width="600" height="200">
+</p>
 
 
 ## Results
