@@ -23,17 +23,8 @@ Keywords : Histopathology Analysis, Microscopic Image, Weakly Supervised Learnin
 <img src = "https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/HA.png" width="600" height="200">
 </p>
 
-## 3. How To Use
-### 3.1 Dataset Setting
 
-### 3.2 Arguments Setting
-
-### 3.2 Training
-
-### 3.3 Test
-
-
-## 4. Results
+## 3. Results
 <p align="center">
 <img src = "https://github.com/TaeMiKim/WSL-for-Colon-Histopathology/blob/main/figures/Result.png" width="700" height="300">
 </p>
